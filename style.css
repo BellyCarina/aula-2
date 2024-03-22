@@ -1,0 +1,11 @@
+body{
+    text-align: conter;
+    background-color: rgb(33, 131, 223);
+    background-image: url(elevador-lacerda-salavdor.jpg);
+    background-size: cover ;
+}
+a{
+    font-size: 40px;
+font-family: 'Courier New', Courier, monospace;
+font-weight:bold;
+}
